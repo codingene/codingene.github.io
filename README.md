@@ -1,7 +1,4 @@
-## CodinGene
-Empowering biology through Bioinformatics.
-
-https://codingene.github.io/
-
+# CodinGene
+### Empowering biology through Bioinformatics.
 ![](codingene_logo.png)
 
