@@ -1,5 +1,5 @@
 # CodinGene
-### Empowering biology with Bioinformatics.
+
 ![](codingene_logo.png)
 
 Open Community | All things Genomics.
