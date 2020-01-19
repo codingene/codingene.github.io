@@ -9,4 +9,8 @@
 Open Community. All things Bioinformatics and Genomics.
 
 # Projects
-1. [snakemake-base](https://github.com/codingene/snakemake-base) - A basic templet for start working on snakemake workflows.
+* DSL (Domain Specific Language) Basic Templates
+  * [Snakemake](https://codingene.github.io/snakemake-base/)
+  * [Nextflow](https://codingene.github.io/nextflow-base/)
+* Docker Containers
+  * [BioShineR](https://codingene.github.io/BioShineR/) Containerized **Bio**conductor and **S**hiny with Docke**R**
